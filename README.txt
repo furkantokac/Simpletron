@@ -1,5 +1,7 @@
-Simpletron 
+# Simpletron 
+Ayrıntı için : http://furkantokac.com/tr/c-simpletron-kendi-programlama-dilinizi-olusturun/
 
+# Kodlar
 10 //Belirtilen konuma değişken ata
 1052 : 52 konumuna kullanıcıdan aldığı değeri depolar.
 
